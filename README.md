@@ -12,7 +12,8 @@ To spawn press the following keys:
 “p” - Piranha
 “x” - poison
 “f” - food
-left click - bubbles
+left click - bubbles and change fish direction
 right click - special pellets (surprise effect)
 
 "c" - Clear tank (of ammonia (waste), access to the special pellet effect after used, of dead fish)
+Built in Processing
